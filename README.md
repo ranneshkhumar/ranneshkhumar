@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20There,%20I'm%20[Your%20Name]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20There,%20I'm%20Rannesh Khumarr B R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
@@ -128,7 +128,7 @@ fun_fact: "I debug with print statements and I'm not ashamed."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/[GitHubUsername]/[GitHubUsername]/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/ranneshkhumar/ranneshkhumar/output/github-contribution-grid-snake.svg" />
 
 </div>
 
