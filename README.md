@@ -6,16 +6,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1B2735,100:283E51&height=200&section=header&text=[Rannesh%20Khumar]&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descAlignY=62&descSize=20&descColor=C9D6E3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1B2735,100:283E51&height=200&section=header&text=Rannesh%20Khumar&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descAlignY=62&descSize=20&descColor=C9D6E3" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=5B7C99&center=true&vCenter=true&width=700&lines=Building+reliable%2C+user-focused+web+applications;JavaScript+%7C+React+%7C+Node.js+%7C+TypeScript;Open+to+full-stack+roles+%26+collaborations" alt="Typing SVG" />
 
 <br/>
 
-<a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-1B2735?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-1B2735?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="mailto:[Email Address]"><img src="https://img.shields.io/badge/Email-1B2735?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="[Resume URL]"><img src="https://img.shields.io/badge/Resume-1B2735?style=flat-square&logo=readdotcv&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rannesh-khumar-b-r-507377289/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFtTUdsY%2FQSOqWedm6r3ang%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-1B2735?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://rann-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1B2735?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="mailto:rannesh.br"><img src="https://img.shields.io/badge/Email-1B2735?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://rann-portfolio.vercel.app/Rannesh%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-1B2735?style=flat-square&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
