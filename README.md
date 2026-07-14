@@ -1,178 +1,191 @@
 <!-- ============================================================
-  GitHub Profile README — "Wow Factor" Edition
+  GitHub Profile README — "Cyberpunk Terminal" Edition (v2)
   Replace every [Bracketed] placeholder with your own info.
-  Full setup notes are at the bottom of this file.
+  Setup notes are at the bottom.
 ============================================================ -->
 
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Hi%20There,%20I'm%20Rannesh Khumarr B R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%3E+whoami" alt="whoami" />
 
-<!-- Typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Turning+Ideas+Into+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social badges -->
-<a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:[Email Address]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[Twitter/X URL]"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile%20Views&color=a970ff&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/[GitHubUsername]?label=Followers&style=for-the-badge&color=a970ff&logo=github"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=[Your%20Name]&fontSize=60&fontColor=00F0FF&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer%20//%20Systems%20Thinker%20//%20Perpetual%20Shipper&descAlignY=65&descSize=20&descColor=8AF0FF" width="100%"/>
 
 </div>
 
 <br/>
 
-## ⚡ About Me
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-name: "Rannesh Khumar B R"
-role: "Full Stack Web Developer"
-location: "[Your City, Country]"
-currently_building: "[Current Project]"
-currently_learning: ["Next.js", "TypeScript", "System Design"]
-fun_fact: "I debug with print statements and I'm not ashamed."
+```bash
+$ cat about_me.sh
+
+> Name        : [Your Name]
+> Role        : Full Stack Web Developer
+> Location    : [Your City, Country]
+> Stack       : JavaScript / TypeScript / React / Node
+> Building    : [Current Project]
+> Learning    : Next.js, System Design, Cloud
+> Reach me    : [your@email.com]
+
+$ █
 ```
 
-- 🔭 I'm currently working on **[Current Project Name]**
-- 🌱 I'm currently learning **Next.js, TypeScript & Cloud Architecture**
-- 👯 I'm looking to collaborate on **open-source & full-stack projects**
-- 💬 Ask me about **React, Node.js, and REST/GraphQL APIs**
-- ⚡ Fun fact: **[Your fun fact here]**
+</td>
+<td width="45%" valign="top" align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&hide_title=true" width="100%"/>
 
-## 🧰 Tech Arsenal
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,bootstrap,git,github,docker,aws,figma,postman,npm,vite&theme=dark" />
+<a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0F2027"/></a>
+<a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0F2027"/></a>
+<a href="mailto:[Email Address]"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0F2027"/></a>
+<a href="[Twitter/X URL]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F0FF&labelColor=0F2027"/></a>
+<a href="[Discord/Dev.to/etc URL]"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=00F0FF&labelColor=0F2027"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🧠 Core Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,tailwind,docker,aws,git,figma&theme=dark&perline=14" />
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/[GitHubUsername]/[GitHubUsername]/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=00F0FF&point=8AF0FF" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+## 🔥 Streak & Trophies
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=dracula&hide_border=true&background=00000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+## 🚀 Flagship Builds
 
 <div align="center">
 
 <a href="[Project 1 Repo URL]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-name-1]&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-1]&theme=dracula&hide_border=true&bg_color=00000000"/>
 </a>
 <a href="[Project 2 Repo URL]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-name-2]&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-2]&theme=dracula&hide_border=true&bg_color=00000000"/>
 </a>
 
 <a href="[Project 3 Repo URL]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-name-3]&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-3]&theme=dracula&hide_border=true&bg_color=00000000"/>
 </a>
 <a href="[Project 4 Repo URL]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-name-4]&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GitHubUsername]&repo=[repo-4]&theme=dracula&hide_border=true&bg_color=00000000"/>
 </a>
 
 </div>
 
-> 💡 These are "pin cards" pulled live from your repos — no screenshots to maintain. Swap `repo=` values for your actual repo names (must be public, non-fork).
-
 <details>
-<summary><b>📦 Project details & tech stacks</b></summary>
+<summary align="center"><b>⚙️ Expand for project breakdowns</b></summary>
 <br/>
 
-**[Project 1 Name]** — [one-line description]
-`React` `Node.js` `MongoDB` · [Live Demo](#) · [Repo](#)
-
-**[Project 2 Name]** — [one-line description]
-`Next.js` `TypeScript` `Tailwind` · [Live Demo](#) · [Repo](#)
-
-**[Project 3 Name]** — [one-line description]
-`Express` `PostgreSQL` `Docker` · [Live Demo](#) · [Repo](#)
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **[Project 1]** | [One line pitch] | `React` `Node` `MongoDB` | [Live](#) · [Code](#) |
+| **[Project 2]** | [One line pitch] | `Next.js` `TS` `Tailwind` | [Live](#) · [Code](#) |
+| **[Project 3]** | [One line pitch] | `Express` `Postgres` `Docker` | [Live](#) · [Code](#) |
 
 </details>
 
-<br/>
-
-## 📊 GitHub Analytics
+## 🎧 Now Playing
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=react-dark&hide_border=true"/>
+<!-- Spotify now-playing widget (setup link in notes below) -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=[SpotifyUserID]&cover_image=true&theme=novatorem&show_offline=true&background_color=0f2027&interchange=false"/>
 
 </div>
 
-<br/>
-
-## 🏆 Trophy Case
+## 💬 Random Dev Wisdom
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
+## 📡 Signal
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ranneshkhumar/ranneshkhumar/output/github-contribution-grid-snake.svg" />
+<img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Terminal%20Visits&color=00F0FF&style=for-the-badge&labelColor=0F2027"/>
+<img src="https://img.shields.io/github/followers/[GitHubUsername]?label=Followers&style=for-the-badge&color=00F0FF&labelColor=0F2027&logo=github"/>
 
 </div>
 
-> ⚙️ The snake animation isn't automatic — it needs a one-time GitHub Action setup. See the note at the bottom.
-
-<br/>
-
-## 🎯 2026 Goals
-
-| Goal | Status |
-|---|---|
-| Contribute to 5+ open-source projects | 🔲 |
-| Ship a full-stack SaaS product | 🔲 |
-| Master system design fundamentals | 🔲 |
-| Get AWS certified | 🔲 |
-| Mentor a junior developer | 🔲 |
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
 
 <div align="center">
-
-### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%"/>
-
-**⭐ If you like what you see, drop a star on my repos — let's build something together!**
-
+<sub>⚡ built with too much coffee and not enough sleep ⚡</sub>
 </div>
 
 <!-- ============================================================
-  SETUP NOTES (delete this section once you're done customizing)
+  SETUP NOTES (delete once done)
 
-  1. Replace all [Bracketed] placeholders with your real info.
-  2. Create a repo with the SAME NAME as your GitHub username
-     (e.g. if you're "janedoe", repo = "janedoe") and make it public —
+  1. Fill in every [Bracketed] placeholder.
+  2. Create a public repo named EXACTLY like your GitHub username —
      that's the special repo GitHub renders on your profile page.
-  3. The "pin" cards under Featured Projects pull live data —
-     just set repo= to your actual repo name, no screenshots needed.
-  4. For the contribution SNAKE animation:
-     - Add this repo's Settings > Actions > add a workflow using
-       Platane/snk (search "github contribution snake action").
-     - It auto-generates the SVG on a schedule; the img src above
-       already points to the right output path once that's set up.
-  5. Themes used: "radical" (stats/trophies) for a vivid dark look.
-     Swap theme= in any URL to: tokyonight, dracula, gruvbox, merko,
-     synthwave — whatever matches your vibe.
+     Put this file there as README.md.
+
+  2. CONTRIBUTION SNAKE (dark variant):
+     - Search "Platane/snk github action" — add the sample workflow
+       to this repo, it commits an SVG to an "output" branch on a
+       schedule. The dark-theme filename above already matches the
+       standard output path once that's running.
+
+  3. SPOTIFY "NOW PLAYING" WIDGET:
+     - Go to https://spotify-github-profile.vercel.app , log in with
+       Spotify, copy your uid, paste into [SpotifyUserID] above.
+     - Skip this whole section if you'd rather not show listening
+       activity — just delete the "Now Playing" block.
+
+  4. QUOTES WIDGET refreshes itself automatically — no setup needed.
+
+  5. All theme= params here use "dracula"/"darkhub" for the neon
+     look. Swap for tokyonight, synthwave, gruvbox, or radical if
+     you want a different palette — keep it consistent across
+     every widget for the cleanest look.
+
+  6. Want max "wow": add a short screen-recording GIF of your best
+     project in action right under "Flagship Builds" — recruiters
+     stop scrolling for a live demo GIF more than for any badge.
 ============================================================ -->
