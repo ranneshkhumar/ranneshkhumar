@@ -34,7 +34,7 @@
 ## ⚡ About Me
 
 ```yaml
-name: "[Your Name]"
+name: "Rannesh Khumar B R"
 role: "Full Stack Web Developer"
 location: "[Your City, Country]"
 currently_building: "[Current Project]"
