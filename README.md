@@ -73,13 +73,11 @@
 
 ## Featured Projects
 
-**[Project 1 Name]**
-[One or two sentence description of the problem this solves and your role in building it.]
-`React` `Node.js` `MongoDB` — [Live Demo](#) · [Source Code](#)
+<b>Perfect 75</b>
+<em>Used for Students to Maintain there 75 percentage of Attendance<em>
 
-**[Project 2 Name]**
-[One or two sentence description of the problem this solves and your role in building it.]
-`Next.js` `TypeScript` `PostgreSQL` — [Live Demo](#) · [Source Code](#)
+
+
 
 <br/>
 
