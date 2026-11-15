@@ -83,34 +83,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=dark&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=dark&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=dark&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=default&hide_border=true"/>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=default&hide_border=true" alt="GitHub Streak"/>
-</picture>
-</p>
-
-<br/>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile+Views&color=blue&style=flat-square"/>
-</p>
 
 <!-- ============================================================
   SETUP NOTES (delete once done)
