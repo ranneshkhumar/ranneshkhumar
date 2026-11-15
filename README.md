@@ -30,12 +30,11 @@
 
 ## About Me
 
-- 💻 Full stack developer focused on **[your specialty — e.g. building performant, accessible web applications]**
-- 📍 Based in **[Your City, Country]**
-- 🔭 Currently working on **[current project / role]**
-- 🌱 Currently learning **[skill or technology]**
-- 🤝 Open to **[freelance / full-time / collaboration]**
-- 📫 Reach me at **[your@email.com]**
+- 💻 Full stack developer focused on Accessible Websites and 
+- 📍 Based in Chennai
+- 🔭 Currently working on Cloud Computing Project
+- 🤝 Open to freelance / collaboration
+- 📫 Reach me at rannesh.br@gmail.com
 
 <br/>
 
